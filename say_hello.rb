@@ -1,4 +1,3 @@
 # Build your say_hello method here
-def say_hello
-  puts "Hello Name"
-end
+def say_hello(name)
+  puts "Hello "
